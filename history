@@ -1,0 +1,212 @@
+    1  exit
+    2  clear
+    3  ls
+    4  ifconfig
+    5  hostname
+    6  exit
+    7  clear
+    8  ls
+    9  clear
+   10  hostnamectl
+   11  nano /etc/hostname
+   12  clear
+   13  sudo nano /etc/hosts
+   14  clear
+   15  reboot
+   16  clear
+   17  ifconfig
+   18  ping google.com
+   19  shutdown -n
+   20  shutdown /?
+   21  man shutdown
+   22  shutdown -P
+   23  exit
+   24  clear
+   25  hostname
+   26  hostnamectl
+   27  nano /etc/hostname
+   28  clear
+   29  sudo nano /etc/hosts
+   30  clear
+   31  reboot
+   32  ls
+   33  clear
+   34  ifconfig
+   35  exit
+   36  clear
+   37  nano /etc/hostname
+   38  clear
+   39  sudo nano /etc/hosts
+   40  clear
+   41  reboot
+   42  ifconfig
+   43  exit
+   44  clear
+   45  ssh root@gateway
+   46  ssh-copy-id root@gateway
+   47  ssh root@gateway
+   48  exit
+   49  nano /etc/hostname
+   50  clear
+   51  nano /etc/hosts
+   52  clear
+   53  reboot
+   54  ifconfig
+   55  exit
+   56  ls
+   57  ls anaconda-ks.cfg
+   58  clear
+   59  yum update
+   60  yum install htop
+   61  ls
+   62  cat anaconda-ks.cfg
+   63  clear
+   64  ifconfig
+   65  clear
+   66   apt-get install figlet
+   67  root  apt-get install figlet
+   68  root apt-get install figlet
+   69  apt install figlet
+   70  apt-get install figlet
+   71  yum install figlet
+   72  figet gooey.hidden
+   73  figet gooey
+   74  yum install figlet
+   75  yum updata figlet
+   76  yum update figlet
+   77  figet gooey
+   78  yum install figlet
+   79  figlet hh
+   80  figet gooey > .hidden
+   81  figlet gooey > .hidden
+   82  nano ~/.bashrc
+   83  figlet gooey is rene > .hidden
+   84  figlet gooey is Rene > .hidden
+   85  figlet gooey is Rene            welcome > .hidden
+   86  figlet gooey is Ren > .hidden
+   87  figlet gooey is Rene > .hidden
+   88  user billybob
+   89  add user Rene
+   90  user @ Rene
+   91  user add  Rene
+   92  useradd  Rene
+   93  ls
+   94  cat anaconda-ks.cfg
+   95  ls
+   96  cat cert.cer
+   97  useradd  Rene
+   98  useradd Rene
+   99  passwd user Rene
+  100  passwd Rene
+  101  cd
+  102  find user rene
+  103  user .bash_history
+  104  user rene
+  105  user Rene
+  106  adduser rene
+  107  passwd rene
+  108  su Rene
+  109  adduser Renes -m
+  110  su Renes
+  111  cat /dev/urandom
+  112  yum install tree
+  113  tree/
+  114  tree / |less
+  115  ls /
+  116  tree /home
+  117  clear
+  118  tree /var
+  119  clear
+  120  cat /dev/urandom
+  121  cat /dev/null
+  122  ls
+  123  user
+  124  find user
+  125  cat/ect/user rene
+  126  cd renes
+  127  cd Rene
+  128  ls
+  129  cat cert.cer
+  130  user ls
+  131  ls user
+  132  history
+  133  su Renes
+  134  passwd Renes
+  135  su Renes
+  136  history
+  137  touch samplefile
+  138  ls -l
+  139  su Renes
+  140  echo "hi" > samplefile
+  141  ls -l
+  142  touch song1.mp3 song2.mp3 song4.mp3 song5.mp3 song6.mp3
+  143  touch snap1.jps snap2.jps snap3.jps snap4.jps snap5.jps snap6.jps
+  144  touch song1.mp3 song2.mp3 song3.mp3 song4.mp3 song5.mp3 song6.mp3
+  145  ls -l
+  146  touch snap1.jps snap2.jps snap3.jps snap4.jps snap5.jps snap6.jps
+  147  ls -l
+  148  touch film1.avi film2.avi film3.avi film4.avi film5.avi film6.avi
+  149  ls -l
+  150  cd
+  151  ls
+  152  mkdir Music
+  153  ls
+  154  mv song1.mp3 song2.mp3 song3.mp3 song4.mp3 song5.mp3 song6.mp3
+  155  mv song1.mp3 song2.mp3 song3.mp3 song4.mp3 song5.mp3 song6.mp3 Music/
+  156  mkdir Pictures
+  157  mkdir Pictures
+  158  mkdir Videos
+  159  mv film1.avi film2.avi film3.avi film4.avi film5.avi film6.avi Videos/
+  160  mv snap1.jps snap2.jps snap3.jps snap4.jps snap5.jps snap6.jps Pictures/
+  161  ls
+  162  mkdir friends family work
+  163  ls
+  164  ls -l
+  165  cd friends/
+  166  cp ~/Music/song1.mp3 ~/Music/song2.mp3 ~/Music/
+  167  ls
+  168  cp ~/Music/song1.mp3 ~/Music/song2.mp3
+  169  ls
+  170  cp ~/Music/song1.mp3 ~/Music/song2.mp3
+  171  cp ~/Music/song1.mp3 ~/Music/song2.mp3 ~/Pictures/
+  172  ls
+  173  ls -l
+  174  clear
+  175  cp ~/Music/song1.mp3 ~/Music/song2.mp3 ~/Pictures/
+  176  clear
+  177  ls -l ../Pictures/
+  178  mv ../Pictures/song1.mp3 ../Pictures/song2.mp3 ../Music/
+  179  ls -l ../Pictures/
+  180  mv ../Pictures/song1.mp3 ../Pictures/song2.mp3 ../Music/
+  181  ls -l
+  182  ls -ls ../Music/
+  183  ls -ls ../Pictures/
+  184  cp ~/Music/song1.mp3 ~/Music/song2.mp3 ~/Pictures/snap1.jps ~/Pictures/snap2.jps ~/Videos/film1.avi ~/Videos/film2.avi .
+  185  ls
+  186  ls -l
+  187  clear
+  188  cd ../family/
+  189  cp ~/Music/song3.mp3 ~/Music/song4.mp3 ~/Pictures/snap3.jps ~/Pictures/snap4.jps ~/Videos/film3.avi ~/Videos/film4.avi .
+  190  ls -l
+  191  clear
+  192  cd ../work/
+  193* cp ~/Music/song5.mp3 ~/Music/song6.mp3 ~/Pictures/snap5.jps ~/Pictures/snap6.jps ~/Videos/film5.avi ~/Videos/film6.avi .
+  194  ls -l
+  195  cd ../friends/
+  196  cd -l
+  197  ls -l
+  198  rm -r family/ friends/
+  199  ls - l
+  200  ls -l
+  201  cd work/
+  202  rm song5.mp3 song6.mp3 snap5.jps snap6.jps film5.avi film6.avi
+  203  cd ..
+  204  rmdir work
+  205  cd work
+  206  ls
+  207  rm film5.avi  film6.avi  snap5.jps  snap6.jps  song5.mp3  song6.mp3
+  208  cd ..
+  209  rmdir worl
+  210  rmdir work
+  211  historu
+  212  history
